@@ -1,0 +1,9 @@
+
+public class Add {
+    public static void main(String[] args) {
+        int a = 2;
+        int g = 4;
+        int sum = a + g;
+        System.out.println("sum" + sum);
+    }
+}
